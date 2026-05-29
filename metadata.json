@@ -1,0 +1,6 @@
+{
+  "name": "Премьера сезона: Ксения",
+  "description": "Интерактивная театральная открытка ко Дню рождения",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
